@@ -1,0 +1,11 @@
+# Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "4"
+# ///
+print("hello world")
+print("hiii")
+
+# COMMAND ----------
+
+
